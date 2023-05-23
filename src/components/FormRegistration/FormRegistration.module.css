@@ -1,0 +1,14 @@
+.form_label {
+    height: 30px;
+    width: 320px;
+    background-color: #fce3fb;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.form_input_file {
+    display: none;
+}
